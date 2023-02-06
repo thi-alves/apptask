@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding:0;
+    background: #f5f5f5;
+    font-family: sans-serif;
+    }
+
+.shadow-box{
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+  }
